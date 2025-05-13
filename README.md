@@ -6,8 +6,8 @@ A Real time AI chatbot web application powered by **React.js** and **Python** . 
 
 ## 🔗 Live Links
 
-- **Frontend (Vercel)**: [Click to visit](https://chatbotfrontend-nu.vercel.app/)
-- **Backend (Render)**: [Click to visit](https://chatbotbackend1-wulm.onrender.com/)
+- **Frontend (Vercel)**: [Click to visit](https://chatbot-1-ixxr.onrender.com/)
+- **Backend (Render)**: [Click to visit](https://chatbotbackend1-wulm.onrender.com/chat)
 
 ---
 
