@@ -14,6 +14,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "https://chatbotfrontend-nu.vercel.app/",  # Remove trailing slash
+        "https://chatbot-1-ixxr.onrender.com/",
     ],
     allow_credentials=True,
     allow_methods=["*"],
